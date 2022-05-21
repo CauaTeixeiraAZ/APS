@@ -18,6 +18,10 @@
     --soft-white: rgba(236, 238, 217, 0.911);
 }
 
+a, a:active, a:visited {
+    text-decoration: none;
+    color: var(--creamm);
+}
 
 header {
     width: 100%;
