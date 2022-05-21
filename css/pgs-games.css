@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+
+    font-family: 'Poppins', sans-serif;
+}
+
+
+:root{
+    --dark-grenn: #012030;
+    --medium-blue: #13678a;
+    --light-blue: #45C4B0;
+    --light-grenn: #9AEBA3;
+    --creamm: #DAFDBA;
+    --soft-white: rgba(236, 238, 217, 0.911);
+}
+
+body{
+    background-color: var(--soft-white);
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-flow: row wrap;
+
+    overflow-x: hidden;
+}
+
+div.conteudo-game{
+    min-width: 600px;
+    min-height: 400px;
+    max-height: 1100px;
+    margin: 50px;
+    padding: 60px;
+    background-color: var(--creamm);
+    border-radius: 15px;
+    color: var(--dark-grenn);
+
+    display: flex;
+    flex-flow: column wrap;
+}
+
+p{
+    text-indent: 2em;
+}
+h2.game-name{
+    color: var(--medium-blue);
+}
+
+div.text-conteudo{
+    min-width: 300px;
+    width: 70%;
+}
+
+h3.subTitle{
+    color: var(--light-blue);
+}
+h4 span{
+    color: var(--light-blue);
+}
+img.logo-game{
+    width: 25%;
+}

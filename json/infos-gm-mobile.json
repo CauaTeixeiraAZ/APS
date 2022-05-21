@@ -1,0 +1,119 @@
+[
+    {
+        "name": "",
+
+        "descricao": "" ,
+        
+        "imagem": "",
+
+        "caracteristica1": "",
+        "caracteristica2": "",
+        "caracteristica3": "",
+        "caracteristica4": "",
+        "caracteristica5": "",
+
+        "fornecerdor": "",
+
+        "plataforma": "",
+
+        "categoria": "",
+
+        "link": ""
+    },
+
+    {
+        "name": "",
+
+        "descricao": "" ,
+        
+        "imagem": "",
+
+        "caracteristica1": "",
+        "caracteristica2": "",
+        "caracteristica3": "",
+        "caracteristica4": "",
+        "caracteristica5": "",
+
+        "fornecerdor": "",
+
+        "plataforma": "",
+
+        "categoria": "",
+
+        "link": ""
+    },
+
+    {
+        "name": "",
+
+        "descricao": "" ,
+        
+        "imagem": "",
+
+        "caracteristica1": "",
+        "caracteristica2": "",
+        "caracteristica3": "",
+        "caracteristica4": "",
+        "caracteristica5": "",
+
+        "fornecerdor": "",
+
+        "plataforma": "",
+
+        "categoria": "",
+
+        "link": ""
+    },
+
+    {
+        "name": "",
+
+        "descricao": "" ,
+        
+        "imagem": "",
+
+        "caracteristica": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        
+        ],
+
+        "fornecerdor": "",
+
+        "plataforma": "",
+
+        "categoria": "",
+
+        "link": ""
+    },
+
+    {
+        "name": "Defensor da Natureza",
+
+        "descricao": [ 
+            "Este fascinante jogo ecológico mostrará aos seus filhos para descobrir o que realmente é a proteção ambiental, quais os problemas ambientais que existem no momento, quais são as formas de proteger o meio ambiente e o mundo ao nosso redor. Mas o mais importante, ira ensinar seus filhos a amar e respeitar a natureza e ajudar a entender: por que protegera natureza é necessária e como fazê-lo.",
+            "Se você está determinado a se tornar um ambientalista, então este jogo é para você. Você só precisa fazer o download para o seu dispositivo e começar a jogar. E você  ficará muito surpreso em saber o quanto você pode mudar o mundo neste jogo incrivel!"
+        ],
+        "imagem": "",
+
+        "caracteristica": [
+            "Se você está determinado a se tornar um ambientalista, então este jogo é para você. Você só precisa fazer o download para o seu dispositivo e começar a jogar. E você  ficará muito surpreso em saber o quanto você pode mudar neste jogo incrivel!",
+            "Limpar os jardins, parques e playgrounds do lixo",
+            "Plante árvores e flores, torne a sua cidade bonita e acolhedora",
+            "Classifique os resíduos por espécie, limpe o rio e as lagoas de detritos",
+            "Limpe todo o lixo da sua cidade!"
+        ],
+
+        "fornecerdor": "Y-Group games",
+
+        "plataforma": "Android",
+
+        "categoria": "Educativo",
+
+        "link": "https://play.google.com/store/apps/details?id=com.YovoGames.Defender&hl=pt_BR&gl=US"
+    }
+    
+]
