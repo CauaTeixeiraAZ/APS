@@ -17,7 +17,7 @@
             "Limpe todo o lixo da sua cidade!"
         ],
 
-        "fornecerdor": "Y-Group games",
+        "fornecedor": "Y-Group games",
 
         "plataforma": "Android",
 
@@ -29,20 +29,13 @@
     {
         "name": "",
 
-        "descricao": "" ,
+        "descricao": [""] ,
         
         "imagem": "",
 
-        "caracteristica": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        
-        ],
+        "caracteristica": [""],
 
-        "fornecerdor": "",
+        "fornecedor": "",
 
         "plataforma": "",
 

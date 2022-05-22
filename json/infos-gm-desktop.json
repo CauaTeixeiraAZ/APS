@@ -1,48 +1,70 @@
 [
     {
-        "name": "",
+        "name": "Jogo da Sustentabilidade ",
 
-        "descricao": "" ,
+        "descricao": ["O Jogo da Sustentabilidade é simples e educativo, basicamente são dois jogos"] ,
         
-        "imagem": "",
-
-        "caracteristica1": "",
-        "caracteristica2": "",
-        "caracteristica3": "",
-        "caracteristica4": "",
-        "caracteristica5": "",
-
-        "fornecerdor": "",
-
-        "plataforma": "",
-
-        "categoria": "",
-
-        "link": ""
-    },
-
-    {
-        "name": "",
-
-        "descricao": "" ,
-        
-        "imagem": "",
+        "imagem": "../imgs/Desktop-img/Jogo da Sustentabilidade/jogo da sustentabilidade.jpg",
 
         "caracteristica": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        
+            "Jogo da Memória </br> Devemos trabalhar nossa memorização e achar as cartas iguais, as cartas representam elementos sustentáveis importantes",
+            "Jogo da Reciclagem </br> Aprendemos qual a forma correta de descartar nosso lixo, devemos descartar os objetos apresentados em suas respectivas lixeiras",
+            "Jogo voltado ao público infantil, acesse e aprenda a reciclar brincando! "
         ],
 
-        "fornecerdor": "",
+        "fornecedor": "CDMF",
 
-        "plataforma": "",
+        "plataforma": "Desktop",
 
-        "categoria": "",
+        "categoria": "Educativo",
 
-        "link": ""
+        "link": "https://www.ludoeducativo.com.br/pt/play/jogo-da-sustentabilidade"
+    },
+    {
+        "name": "Coleta Seletiva",
+
+        "descricao": ["A conservação do meio ambiente depende diretamente da conscientização e da mudança de hábitos das pessoas. Tal mudança só é possível através da educação ambiental. Pensando nisso, temos um jogo divertido que contribui para a formação de alunos conscientes e comprometidos com o meio ambiente e sua preservação. A proposta facilita a memorização das cores usadas nas lixeiras da coleta seletiva e trabalha informações importantes sobre este"] ,
+        
+        "imagem": "../imgs/Desktop-img/Coleta Seletiva/0.jpg",
+
+        "caracteristica": [
+            "Conhecer como é feita a coleta seletiva e seus benefícios",
+            "Identificar os materiais que podem ser reciclados",
+            "Separar os materiais segundo sua origem (papel, metal, plástico, vidro e orgânico)",
+            "Analisar fatos e situações sobre o lixo, do ponto de vista ambiental, reconhecendo a necessidade de participar deste processo",
+            "Conscientizar-se sobre as diferentes formas de coleta e destino do lixo, na escola, em casa, no bairro, na cidade",
+            "Fixar conhecimento adquirido em sala de aula"
+        ],
+
+        "fornecedor": "Escola games",
+
+        "plataforma": "Desktop",
+
+        "categoria": "Ciências, Educativo",
+
+        "link": "https://www.escolagames.com.br/jogos/coletaSeletiva/ "
+    },
+    {
+        "name": "Plasticity ",
+
+        "descricao": [
+            "Criado por estudantes do programa de games da USC (Universidade do Sul da Califórnia), o jogo de estilo puzzle Plasticity apresenta uma versão do planeta Terra no ano de 2140. Na história, o meio ambiente está devastado pelo consumo desenfreado de plástico e as decisões da personagem controlada pelo jogador podem piorar ou melhorar a situação.",
+            "desenvolvedores ressaltam que poucas decisões com impacto negativo no planeta virtual são reversíveis, por isso o gamer deve se atentar a cada movimento realizado. "
+            ] ,
+        
+        "imagem": "../imgs/Desktop-img/Plasticity/plasticity.png",
+
+        "caracteristica": [
+            "Este jogo está disponível gratuitamente na plataforma Steam",
+            "Jogo Indie Independente "
+        ],
+
+        "fornecedor": "Plasticity Games ",
+
+        "plataforma": "Desktop",
+
+        "categoria": "Post-apocaliptico, quebra-cabeças, plataforma",
+
+        "link": "https://store.steampowered.com/app/1069360/Plasticity/?l=portuguese "
     }
 ]

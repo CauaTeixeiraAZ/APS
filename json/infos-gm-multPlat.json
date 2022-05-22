@@ -1,48 +1,75 @@
 [
     {
-        "name": "",
+        "name": "Minecraft",
 
-        "descricao": "" ,
+        "descricao": [
+            "Minecraft já é considerado um clássico moderno por muitos gamers que se interessam por ambientes digitais que permitem a construção de casas, utensílios e outros itens de sobrevivência.",
+            "Mas o jogo também pode ser utilizado para ensinar sobre o uso consciente de recursos. Para manter a vida do personagem principal, e matar sua fome, o gamer precisa entender conceitos como agricultura e pecuária para poder criar animais e vegetais em um ambiente controlado."
+            ] ,
         
-        "imagem": "",
-
-        "caracteristica1": "",
-        "caracteristica2": "",
-        "caracteristica3": "",
-        "caracteristica4": "",
-        "caracteristica5": "",
-
-        "fornecerdor": "",
-
-        "plataforma": "",
-
-        "categoria": "",
-
-        "link": ""
-    },
-
-    {
-        "name": "",
-
-        "descricao": "" ,
-        
-        "imagem": "",
+        "imagem": "../imgs/MultiPlataforma-img/Minecraft/Mine cidade sustentavel.jpg",
 
         "caracteristica": [
-            "",
-            "",
-            "",
-            "",
-            ""
-        
+            "cerca de 141 milhões de jogadores ativos atualmente",
+            "Mas além disso, o estúdio que desenvolveu o jogo, lançou também um mapa gratuito de uma cidade sustentável, que convida os jogadores a explorar como alguns dos objetivos e temas do Relatório Anual de Sustentabilidade da Microsoft ganham vida em uma cidade Minecraft",
+            "O mapa da Cidade Sustentável está disponível para ser baixado gratuitamente no Minecraft Marketplace “Education Collection”, bem como no Minecraft: Education Edition"
         ],
 
-        "fornecerdor": "",
+        "fornecedor": "Mojang ",
 
-        "plataforma": "",
+        "plataforma": "Desktop, Mobile, Xbox, PlayStation e Nintendo Switch",
 
-        "categoria": "",
+        "categoria": "Mundo aberto, Exploração, sobrevivencia",
 
-        "link": ""
+        "link": "https://minecraft.com.br/?gclid=Cj0KCQjwmuiTBhDoARIsAPiv6L_s1Hphtell3alzzwLDdNaGcVCzEIHBItFxV_rTbJJUN0A671sr-ScaAl5oEALw_wcB "
+    },
+    {
+        "name": "Beyond Blue ",
+
+        "descricao": [
+            "No game Beyond Blue, o jogador controla a personagem Mirai, uma cientista e exploradora do mar. Desenvolvido pela BBC Studios, em parceria com a OceanX, uma iniciativa de exploração oceânica, a ideia do jogo é que o gamer possa explorar o ambiente marinho por meio do uso de tecnologias inovadoras. Além disso, o jogo oferece uma enciclopédia com dados científicos sobre as criaturas que podem ser encontradas no mar.",
+            "Conforme os desenvolvedores, Beyond Blue propõe um caminho de conscientização sobre a “incrível vastidão dos nossos oceanos” em um mundo afetado por mudanças climáticas, pesca predatória e desperdício de plásticos.",
+            "Beyond Blue é um jogo educacional de aventura de mergulho subaquático desenvolvido e publicado pelo estúdio americano E-Line Media, que anteriormente havia desenvolvido Never Alone. O jogo foi inspirado na série de documentários sobre a natureza Blue Planet II da BBC."
+            ] ,
+        
+        "imagem": "../imgs/MultiPlataforma-img/Beyond Blue/Beyond Blue.jpeg",
+
+        "caracteristica": [
+            "Exploração Subaquatica e aventura em um mundo jamais tocado",
+            "Uma narrativa intrigante totalmente dublada",
+            "Dezesseis minidocumentários exclusivos, chamados Revelações do Oceano, com imagens originais e entrevistas com os principais especialistas em oceanos da atualidade"
+        ],
+
+        "fornecedor": "E-Line Media",
+
+        "plataforma": "Desktop, XBOX, PlayStation e Nintendo Switch",
+
+        "categoria": "Educacional, Aventura",
+
+        "link": "https://store.steampowered.com/app/883360/Beyond_Blue/ "
+    },
+    {
+        "name": "Farming Simulator ",
+
+        "descricao": ["Nos moldes de simuladores como o Microsoft Flight Simulator ou Euro Truck Simulator 2, o Farming Simulator se baseia na rotina do agronegócio para oferecer diversão e ensinamentos aos gamers. Com mapas localizados na França, no meio-oeste dos EUA ou nos Alpes Suíços, o jogador deve escolher o negócio mais adequado, de acordo com a região, levando em consideração características como clima e períodos de safra. O jogo também apresenta a agricultura de precisão e como a sua adoção pode tornar uma fazenda mais “eco-friendly”"] ,
+        
+        "imagem": "../imgs/MultiPlataforma-img/Farming Simulator/Farming Simulator.png",
+
+        "caracteristica": [
+            "Use mais de 100 veículos e ferramentas realistas das maiores fabricantes de maquinário agrícola",
+            "Plante e colha diferentes plantações: trigo, cevada, aveia, canola, girassóis, soja, milho, batata, beterraba açucareira e algodão ",
+            "Trate de seus bovinos e ovinos para produzir e vender leite e lã",
+            "Cuide de seus cavalos para cavalgar e explorar o mundo ao redor da fazenda",
+            "Os novos gráficos 3D reproduzem ainda mais os detalhes de seu maquinário e da ambientação da América do Norte",
+            "A visão do painel permite que você dirija seus veículos de uma forma ainda mais realista do que antes"
+        ],
+
+        "fornecedor": "GIANTS Software ",
+
+        "plataforma": "Desktop, XBOX e PlayStation",
+
+        "categoria": "Simulação; Agricultura",
+
+        "link": "https://store.epicgames.com/pt-BR/p/farming-simulator-22 "
     }
 ]

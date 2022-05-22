@@ -8,7 +8,6 @@ fetch(localJson)
         return response.json();
     })
     .then(function(data){
-    for(let i = 0; i < data.length; i++){
         
         function caracteristicas(caracteristica){
             return `
@@ -18,6 +17,20 @@ fetch(localJson)
                 `
             }).join('')}
             `
+        }
+
+    for(let i = 0; i < data.length; i++){
+        
+        function testDesc(descri){
+            if(data[i].descricao.length >= 0){
+                    return `
+                    ${descri.map(function(desc){
+                        return `<p>${desc}</p>`
+                    }).join('')}
+                    `
+                }else{
+                return `<p>${data[i].descricao}</p>`
+            }
         }
 
         let main = document.querySelector('main').innerHTML +=
@@ -30,7 +43,7 @@ fetch(localJson)
            </br>
         
                <h4 class="descricao-game">
-                   ${data[i].descricao}
+                    ${testDesc(data[i].descricao)}
                </h4>
            </div>
            </br>
@@ -55,7 +68,7 @@ fetch(localJson)
                    </ul>
                </div>
                 <a href="${data[i].link}" target="_blank">
-                    <button class="download-game"><h2>Download</h2></button>
+                    <button class="download-game"><h2>Jogar</h2></button>
                 </a>   
             </div>
        </div>

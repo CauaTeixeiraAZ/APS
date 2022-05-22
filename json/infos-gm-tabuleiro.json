@@ -3,7 +3,9 @@
     {
         "name": "Playset Steam Cidade Sustentável",
 
-        "descricao": "O Playset Cidade Sustentável Steam da Xalingo Brinquedos, conta com personagens e elementos que compõem o cenário, aprendendo sobre a sustentabilidade, separação do lixo, reciclagem, energia solar de uma maneira divertida, através do encaixe de suas 154 peças em madeira reflorestada e 11 peças plásticas. Fácil de montar. Não precisa de cola, nem de ferramentas. Com tabuleiro 50 x 70 cm, o brinquedo possibilita montar um quebra-cabeça tridimensional, que ajuda a desenvolver a capacidade de concentração, percepção visual e a imaginação da criança." ,
+        "descricao":[
+             "O Playset Cidade Sustentável Steam da Xalingo Brinquedos, conta com personagens e elementos que compõem o cenário, aprendendo sobre a sustentabilidade, separação do lixo, reciclagem, energia solar de uma maneira divertida, através do encaixe de suas 154 peças em madeira reflorestada e 11 peças plásticas. Fácil de montar. Não precisa de cola, nem de ferramentas. Com tabuleiro 50 x 70 cm, o brinquedo possibilita montar um quebra-cabeça tridimensional, que ajuda a desenvolver a capacidade de concentração, percepção visual e a imaginação da criança."
+        ],
         
         "imagem": "../imgs/Tabuleiro-img/Playset Steam Cidade Sustentável/Cidade-sustentavel-semfundo.png",
 
@@ -23,7 +25,9 @@
     {
         "name": "Planet",
 
-        "descricao":"Um mundo está tomando forma em suas mãos. Espalhe suas cadeias montanhosas e seus desertos, expanda suas florestas, oceanos e geleiras. Posicione estrategicamente seus continentes para formar biomas propícios para a vida animal e tente povoar ao máximo seu Planeta! ",
+        "descricao": [
+            "Um mundo está tomando forma em suas mãos. Espalhe suas cadeias montanhosas e seus desertos, expanda suas florestas, oceanos e geleiras. Posicione estrategicamente seus continentes para formar biomas propícios para a vida animal e tente povoar ao máximo seu Planeta! "
+        ],
         
         "imagem": "../imgs/Tabuleiro-img/Planet/planet.png",
 
@@ -44,8 +48,9 @@
     {
         "name": "Salve Salves Rios",
 
-        "descricao": "Nunca é cedo para aprender sobre a natureza. Junte seus amigos e sua família e ajude a despoluir o rio! Mas cuidado para não retirar os peixinhos que habitam o lugar! Uma aventura para todos se divertirem e aprenderem sobre a importância de manter o meio ambiente limpo. " ,
-        
+        "descricao": [
+            "Nunca é cedo para aprender sobre a natureza. Junte seus amigos e sua família e ajude a despoluir o rio! Mas cuidado para não retirar os peixinhos que habitam o lugar! Uma aventura para todos se divertirem e aprenderem sobre a importância de manter o meio ambiente limpo. " 
+        ],
         "imagem": "../imgs/Tabuleiro-img/Jogo Salve Salves Rios/salve_salve_rios.png",
 
         "caracteristica": [
