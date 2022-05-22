@@ -1,0 +1,48 @@
+[
+    {
+        "name": "",
+
+        "descricao": "" ,
+        
+        "imagem": "",
+
+        "caracteristica1": "",
+        "caracteristica2": "",
+        "caracteristica3": "",
+        "caracteristica4": "",
+        "caracteristica5": "",
+
+        "fornecerdor": "",
+
+        "plataforma": "",
+
+        "categoria": "",
+
+        "link": ""
+    },
+
+    {
+        "name": "",
+
+        "descricao": "" ,
+        
+        "imagem": "",
+
+        "caracteristica": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        
+        ],
+
+        "fornecerdor": "",
+
+        "plataforma": "",
+
+        "categoria": "",
+
+        "link": ""
+    }
+]

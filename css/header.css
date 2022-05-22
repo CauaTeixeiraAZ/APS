@@ -18,7 +18,9 @@
     --soft-white: rgba(236, 238, 217, 0.911);
 }
 
-a, a:active, a:visited {
+.menu-list a, .menu-list:active, .menu-list:visited {
+    width: 100%;
+    height: 100%;
     text-decoration: none;
     color: var(--creamm);
 }
