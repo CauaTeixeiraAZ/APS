@@ -1,70 +1,48 @@
-
 [
     {
         "name": "Playset Steam Cidade Sustentável",
-
-        "descricao":[
-             "O Playset Cidade Sustentável Steam da Xalingo Brinquedos, conta com personagens e elementos que compõem o cenário, aprendendo sobre a sustentabilidade, separação do lixo, reciclagem, energia solar de uma maneira divertida, através do encaixe de suas 154 peças em madeira reflorestada e 11 peças plásticas. Fácil de montar. Não precisa de cola, nem de ferramentas. Com tabuleiro 50 x 70 cm, o brinquedo possibilita montar um quebra-cabeça tridimensional, que ajuda a desenvolver a capacidade de concentração, percepção visual e a imaginação da criança."
+        "descricao": [
+            "O Playset Cidade Sustentável Steam da Xalingo Brinquedos, conta com personagens e elementos que compõem o cenário, aprendendo sobre a sustentabilidade, separação do lixo, reciclagem, energia solar de uma maneira divertida, através do encaixe de suas 154 peças em madeira reflorestada e 11 peças plásticas. Fácil de montar. Não precisa de cola, nem de ferramentas. Com tabuleiro 50 x 70 cm, o brinquedo possibilita montar um quebra-cabeça tridimensional, que ajuda a desenvolver a capacidade de concentração, percepção visual e a imaginação da criança."
         ],
-        
         "imagem": "../imgs/Tabuleiro-img/Playset Steam Cidade Sustentável/Cidade-sustentavel-semfundo.png",
-
         "caracteristica": [
             " Indicado para crianças a partir dos 3 anos",
             " quebra-cabeça tridimensional"
         ],
-
         "fornecedor": "Xalingo",
-
         "plataforma": "Tabuleiro",
-
         "categoria": "quebra-cabeça tridimensional ",
-
         "link": "https://www.estrela10.com.br/cidade-playset-xalingo-colorido-madeira-340384-p13508004?utm_source=googleshopping&utm_medium=site&utm_campaign=link_patrocinado&gclid=EAIaIQobChMImN3dm87Y9wIVb0BIAB3Zfwq8EAQYAyABEgLK3vD_BwE"
     },
     {
         "name": "Planet",
-
         "descricao": [
             "Um mundo está tomando forma em suas mãos. Espalhe suas cadeias montanhosas e seus desertos, expanda suas florestas, oceanos e geleiras. Posicione estrategicamente seus continentes para formar biomas propícios para a vida animal e tente povoar ao máximo seu Planeta! "
         ],
-        
         "imagem": "../imgs/Tabuleiro-img/Planet/planet.png",
-
         "caracteristica": [
             "Em Planet, cada jogador tem em suas mãos um núcleo de planeta tridimensional com 12 lados e as peças que formam os Continentes se unem a ele por magnetismo, criando uma experiência única e incrível aos jogadores! ",
             "Planet é o primeiro jogo do mundo onde o tabuleiro é um objeto tridimensional que fica na mão dos jogadores durante a partida!",
             "Tabuleiro 3D"
         ],
-
         "fornecedor": "PaperGames",
-
         "plataforma": "Tabuleiro",
-
         "categoria": "Estratégia, Família",
-
         "link": "https://www.amazon.com.br/PaperGames-CSG-PLANET-Planet/dp/B07K16G8HZ/ref=asc_df_B07K16G8HZ/?tag=googleshopp00-20&linkCode=df0&hvadid=394149377963&hvpos=&hvnetw=g&hvrand=5365745285148225827&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-587025037093&psc=1 "
     },
     {
         "name": "Salve Salves Rios",
-
         "descricao": [
-            "Nunca é cedo para aprender sobre a natureza. Junte seus amigos e sua família e ajude a despoluir o rio! Mas cuidado para não retirar os peixinhos que habitam o lugar! Uma aventura para todos se divertirem e aprenderem sobre a importância de manter o meio ambiente limpo. " 
+            "Nunca é cedo para aprender sobre a natureza. Junte seus amigos e sua família e ajude a despoluir o rio! Mas cuidado para não retirar os peixinhos que habitam o lugar! Uma aventura para todos se divertirem e aprenderem sobre a importância de manter o meio ambiente limpo. "
         ],
         "imagem": "../imgs/Tabuleiro-img/Jogo Salve Salves Rios/salve_salve_rios.png",
-
         "caracteristica": [
             " Amigável para a família",
             "Ficar por último no jogo, sem retirar 4 peixes ou mais do rio."
         ],
-
         "fornecedor": "Brinquedos Estrela",
-
         "plataforma": "Tabuleiro, fichas",
-
         "categoria": "Diversão e entretenimento",
-
         "link": "https://www.amazon.com.br/Jogo-Salve-Rios-Estrela/dp/B08W5FF641/ref=asc_df_B08W5FF641/?tag=googleshopp00-20&linkCode=df0&hvadid=394149377963&hvpos=&hvnetw=g&hvrand=11365620327535163492&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1479633573597&psc=1 "
     }
-    
 ]

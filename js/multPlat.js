@@ -4,13 +4,13 @@
 let localJson = new Request('../json/infos-gm-multPlat.json')
 
 fetch(localJson)
-    .then(function(response){
+    .then(function (response) {
         return response.json();
     })
-    .then(function(data){
-        function caracteristicas(caracteristica){
+    .then(function (data) {
+        function caracteristicas(caracteristica) {
             return `
-            ${caracteristica.map(function(caract){
+            ${caracteristica.map(function (caract) {
                 return `
                 <li>${caract}</li>
                 `
@@ -18,22 +18,22 @@ fetch(localJson)
             `
         }
 
-    for(let i = 0; i < data.length; i++){
-        
-        function testDesc(descri){
-            if(data[i].descricao.length >= 0){
+        for (let i = 0; i < data.length; i++) {
+
+            function testDesc(descri) {
+                if (data[i].descricao.length >= 0) {
                     return `
-                    ${descri.map(function(desc){
+                    ${descri.map(function (desc) {
                         return `<p>${desc}</p>`
                     }).join('')}
                     `
-                }else{
-                return `<p>${data[i].descricao}</p>`
+                } else {
+                    return `<p>${data[i].descricao}</p>`
+                }
             }
-        }
 
-        let main = document.querySelector('main').innerHTML +=
-        `<div class="conteudo-game">
+            let main = document.querySelector('main').innerHTML +=
+                `<div class="conteudo-game">
        <div class="text-conteudo">
            <h2 class="game-name">${data[i].name}</h2>
            </br>
@@ -74,6 +74,7 @@ fetch(localJson)
        
        <img src="${data[i].imagem}" alt="" class="logo-game">
    </div>`
-        
-    }})
+
+        }
+    })
 

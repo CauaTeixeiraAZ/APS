@@ -1,5 +1,4 @@
-
-body{
+body {
     background-color: var(--soft-white);
     width: 100vw;
     height: 100vh;
@@ -10,10 +9,10 @@ body{
     overflow-x: hidden;
 }
 
-div.conteudo-game{
+div.conteudo-game {
     min-width: 250px;
     max-width: 90%;
-    
+
     margin: 50px;
     padding: 60px;
     background-color: var(--light-grenn);
@@ -24,41 +23,44 @@ div.conteudo-game{
     flex-flow: row wrap;
 }
 
-p{
+p {
     text-indent: 2em;
 }
-h2.game-name{
+
+h2.game-name {
     color: var(--medium-blue);
 }
 
-div.text-conteudo{
+div.text-conteudo {
     min-width: 250px;
     width: 60%;
     height: 100%;
 }
 
-h3.subTitle{
+h3.subTitle {
     color: var(--light-blue);
 }
 
-div.controle-buttomEinfos{
+div.controle-buttomEinfos {
     width: 100%;
-    
+
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
 }
 
-h4 span{
+h4 span {
     color: var(--light-blue);
 }
-img.logo-game{
+
+img.logo-game {
     min-width: 18em;
     min-height: 18em;
     margin-left: 5em;
     margin-top: 5em;
 }
-.download-game{
+
+.download-game {
     width: 13em;
     height: 3.5em;
 
@@ -66,16 +68,20 @@ img.logo-game{
     background-color: var(--medium-blue);
     outline: none;
     border: none;
-    border-radius:5px;
+    border-radius: 5px;
     transition: .5s ease-in-out;
     color: white;
 }
-.download-game:hover{
+
+.download-game:hover {
     cursor: pointer;
     box-shadow: 5px 5px 15px 5px rgba(58, 58, 58, 0.5);
     transform: scale(1.1);
 }
-span.span-preço, .span-preço:active, .span-preço:visited{
+
+span.span-preço,
+.span-preço:active,
+.span-preço:visited {
     color: white;
     text-decoration: none;
 }
