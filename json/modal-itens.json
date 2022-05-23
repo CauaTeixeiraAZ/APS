@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Multi Plataforma",
+        "imagem": "../imgs/imgs-paginas/MultPlat-img_total.png",
+        "link": "../pgs-jogos/gm-multiPlat.html"
+    },
+    {
+        "name": "Desktop",
+        "imagem": "../imgs/imgs-paginas/Desktop-img-total.png",
+        "link": "../pgs-jogos/gm-desktop.html"
+    },
+    {
+        "name": "Mobile",
+        "imagem": "../imgs/imgs-paginas/Mobile-img-total.png",
+        "link": "../pgs-jogos/gm-mobile.html"
+    },
+    {
+        "name": "Tabuleiro",
+        "imagem": "../imgs/imgs-paginas/Tabuleiro-img-total.png",
+        "link": "../pgs-jogos/gm-tabuleiro.html"
+    }
+]

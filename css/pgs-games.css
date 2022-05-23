@@ -53,9 +53,9 @@ h4 span{
     color: var(--light-blue);
 }
 img.logo-game{
-    min-width: 20em;
-    max-width: 27em;
-    min-height: 20em;
+    min-width: 18em;
+    max-width: 25em;
+    min-height: 18em;
     margin-left: 5em;
     margin-top: 5em;
 }

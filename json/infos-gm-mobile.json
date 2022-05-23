@@ -1,14 +1,11 @@
 [
-
     {
         "name": "Defensor da Natureza",
-
-        "descricao": [ 
+        "descricao": [
             "Este fascinante jogo ecológico mostrará aos seus filhos para descobrir o que realmente é a proteção ambiental, quais os problemas ambientais que existem no momento, quais são as formas de proteger o meio ambiente e o mundo ao nosso redor. Mas o mais importante, ira ensinar seus filhos a amar e respeitar a natureza e ajudar a entender: por que protegera natureza é necessária e como fazê-lo.",
             "Se você está determinado a se tornar um ambientalista, então este jogo é para você. Você só precisa fazer o download para o seu dispositivo e começar a jogar. E você  ficará muito surpreso em saber o quanto você pode mudar o mundo neste jogo incrivel!"
         ],
-        "imagem": "",
-
+        "imagem": "../imgs/Mobile-img/Defensor da Natureza/logo_defensor_da_natureza.png",
         "caracteristica": [
             "Se você está determinado a se tornar um ambientalista, então este jogo é para você. Você só precisa fazer o download para o seu dispositivo e começar a jogar. E você  ficará muito surpreso em saber o quanto você pode mudar neste jogo incrivel!",
             "Limpar os jardins, parques e playgrounds do lixo",
@@ -16,33 +13,81 @@
             "Classifique os resíduos por espécie, limpe o rio e as lagoas de detritos",
             "Limpe todo o lixo da sua cidade!"
         ],
-
         "fornecedor": "Y-Group games",
-
-        "plataforma": "Android",
-
+        "plataforma": "Mobile Android",
         "categoria": "Educativo",
-
         "link": "https://play.google.com/store/apps/details?id=com.YovoGames.Defender&hl=pt_BR&gl=US"
     },
-    
     {
-        "name": "",
-
-        "descricao": [""] ,
-        
-        "imagem": "",
-
-        "caracteristica": [""],
-
-        "fornecedor": "",
-
-        "plataforma": "",
-
-        "categoria": "",
-
-        "link": ""
+        "name": "Ecolândia - Educação Ambiental",
+        "descricao": [
+            "Jogue de GRAÇA, sem precisar de cadastro nem acesso à internet! ",
+            "São cinco jogos que ensinarão de maneira divertida temas da área da ecologia e 𝙥𝙧𝙤𝙩𝙚çã𝙤 𝙖𝙢𝙗𝙞𝙚𝙣𝙩𝙖𝙡"
+        ],
+        "imagem": "../imgs/Mobile-img/Ecolândia - Educação Ambiental/ecolandia.png",
+        "caracteristica": [
+            "Suba de 𝙣í𝙫𝙚𝙡 e libere fases incríveis com novos temas!",
+            "Aprenda sobre a Coleta Seletiva, processo de polinização, importância de jogar o lixo nos locais corretos, compostagem e mais!",
+            "Enquanto você arrasa nos pontos em cada jogos você ainda desbloquiea cartas informativas sobre os animais"
+        ],
+        "fornecedor": "André Holtz",
+        "plataforma": "Mobile Android",
+        "categoria": "Educativo",
+        "link": "https://play.google.com/store/apps/details?id=com.ecolandia.ecocs&hl=pt_BR&gl=US "
+    },
+    {
+        "name": "ECO inc. Save the Earth ",
+        "descricao": [
+            "Salve a Terra é o primeiro jogo educativo sobre tema ecológico. Veja de perto os problemas ecológicos reais, suas causas e iniciativas de pessoas de todo o mundo que estão salvando nosso planeta de um desastre ecológico.",
+            "Você vai tentar um papel de um fundo de poupança do planeta. Envolva-se com as atividades que afetarão o futuro da Terra. Pesquise, pense, faça sua escolha e veja seus resultados. Salve nossa casa e seus habitantes! ",
+            "Nós mesmos somos de fato preservacionistas ativos, então parte do dinheiro que recebemos com as vendas do jogo é doado para caridade. ",
+            "O objetivo do jogador é estabilizar a situação ecológica em todo o planeta nos estágios iniciais. E então, passo a passo, restaurar e melhorar a eco-situação da Terra. No final do seu jogo, você receberá suas estatísticas sobre o sucesso de sua missão. Cada passo leva a consequências diferentes, você tem que fazer ações ponderadas e rápidas. "
+        ],
+        "imagem": "../imgs/Mobile-img/ECO inc. Save the Earth/eco ink logo.png",
+        "caracteristica": [
+            "Especificações de estudo de regiões e seus problemas exatos ",
+            "Acompanhe eco-situações das regiões da Terra",
+            "Integrar projetos ecológicos ",
+            "Conheça novas tecnologias verdes "
+        ],
+        "fornecedor": "GameFirst Mobile ",
+        "plataforma": "Mobile Android",
+        "categoria": "Estratégia",
+        "link": "https://play.google.com/store/apps/details?id=com.gamefirst.free.strategy.save.the.earth&hl=pt_BR&gl=US"
+    },
+    {
+        "name": "Idle Eco Clicker – Salve a Terra",
+        "descricao": [
+            "Salve a natureza! Livre-se do lixo e resíduos tóxicos das nossas florestas, rios e campos. Deixe o planeta verde novamente!"
+        ],
+        "imagem": "../imgs/Mobile-img/Idle Eco Clicker – Salve a Terra/logo eco clicker.png",
+        "caracteristica": [
+            "Faça várias missões e colete joias para comprar equipamentos mais avançados e descobrir novas terras. Comece cada dia com pequenas ações para proteger a Terra! ",
+            "Jogue offline! No modo de jogo automático, os recursos se acumulam mesmo quando você não está jogando! Mas lembre-se de entrar no jogo várias vezes ao dia para coletar bônus e alcançar o sucesso mais depressa.",
+            "O Eco Clicker não é um simples jogo ocioso. É uma grande oportunidade de mudar nossa atitude em relação aos problemas ambientais que a humanidade vai enfrentar no futuro próximo! Não seja um alienado! Abra o jogo, descubra como salvar o planeta virtual e coloque as mudanças em prática no mundo real! "
+        ],
+        "fornecedor": "Mad Diamond Games",
+        "plataforma": "Mobile Android",
+        "categoria": "Simulador",
+        "link": "https://play.google.com/store/apps/details?id=com.MadDiamond.EcoClicker&hl=pt_BR&gl=US"
+    },
+    {
+        "name": "Jogos Ecológicos ",
+        "descricao": [
+            "Jogos ecológicos reúne uma série de jogos que te desafiam e ensinam sobre a natureza e ações do ser humano no meio ambiente. ",
+            "Atualmente existem dois jogos, porém mais 3 jogos estão em produção! "
+        ],
+        "imagem": "../imgs/Mobile-img/Jogos Ecológicos/jogos ecologicos.png",
+        "caracteristica": [
+            "Jogo da Reciclagem: Jogue o lixo na lixeira correta, decore a cor de cada lixo e faça o maior número de pontos possível antes que o tempo acabe!",
+            "Jogo do Caminhão de Lixo: As pessoas desse prédios são muito bagunceiras, seja rápido e não deixe que o lixo delas caiam no chão e sujem a cidade. Será que você consegue deixar tudo limpo",
+            "Jogo da Pesca (em breve): Não pesque peixe, pesque o lixo. Você construiu um belo barco e suas garras mecânicas são ótimas para agarrar qualquer coisa no seu caminho. Tente tirar o maior número de lixo do rio e não pegue peixes por acidente. ",
+            "Jogo da Memória (em breve): Exerça sua memória com os lixos que se relacionam com cada lixeira. Mostre que você é rápido e resolve tudo em pouco tempo",
+            "Plantinha (em breve): Com os prêmios conquistados nos outros jogos você poderá adquirir itens para fazer sua plantinha crescer e dar frutos. Faça-a feliz e não deixe de alimentá-la com água, oxigênio, luz e adubo"
+        ],
+        "fornecedor": "Studica Solution",
+        "plataforma": "Mobile Android",
+        "categoria": "Educativo",
+        "link": "https://play.google.com/store/apps/details?id=com.StudicaSolution.JogosEcologicos"
     }
-
-    
 ]
